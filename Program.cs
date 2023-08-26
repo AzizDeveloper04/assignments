@@ -1,5 +1,4 @@
 ﻿// 1
-using System.Diagnostics;
 
 decimal r=Convert.ToDecimal(Console.ReadLine());
 decimal s=r*r*(decimal)Math.PI;
